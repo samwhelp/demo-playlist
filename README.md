@@ -1,6 +1,6 @@
 # demo-playlist
 
-Demo Playlist
+[Demo Playlist](https://samwhelp.github.io/demo-playlist/)
 
 ## Playlist
 
