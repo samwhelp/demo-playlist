@@ -19,6 +19,14 @@ mpv 也可以改用 smplayer (註：smplayer 雖然也是使用 mpv)
 $ smplayer debian-packaging-workshop.m3u
 ```
 
+### 播放遠端 m3u
+
+執行
+
+``` sh
+$ mpv http://samwhelp.github.io/demo-playlist/all/debian-packaging-workshop/main.m3u
+```
+
 ## 相關討論串
 
 * [[影片教學][TOSSUG] Debian 套件打包工作坊](https://www.ubuntu-tw.org/modules/newbb/viewtopic.php?post_id=339076#forumpost339076)
