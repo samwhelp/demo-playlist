@@ -19,12 +19,26 @@ mpv 也可以改用 smplayer (註：smplayer 雖然也是使用 mpv)
 $ smplayer debian-packaging-workshop.m3u
 ```
 
-### 播放遠端 m3u
+## 遠端播放
+
+[m3u連結](https://samwhelp.github.io/demo-playlist/all/debian-packaging-workshop/main.m3u)
 
 執行
 
 ``` sh
-$ mpv http://samwhelp.github.io/demo-playlist/all/debian-packaging-workshop/main.m3u
+$ mpv --playlist=https://samwhelp.github.io/demo-playlist/all/debian-packaging-workshop/main.m3u
+```
+
+或是執行
+
+``` sh
+$ mpv --ytdl --ytdl-format=best --playlist=https://samwhelp.github.io/demo-playlist/all/debian-packaging-workshop/main.m3u
+```
+
+## 下載
+
+``` sh
+$ wget -c http://samwhelp.github.io/demo-playlist/all/debian-packaging-workshop/main.m3u -O debian-packaging-workshop.m3u
 ```
 
 ## 相關討論串
