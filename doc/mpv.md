@@ -18,12 +18,9 @@ source_url: '/doc/mpv.md'
 可以看到下面這一段
 
 ```
-<pre><code>
 SYNOPSIS
        mpv [options] [file|URL|PLAYLIST|-]
        mpv [options] files
-
-</code></pre>
 ```
 
 大概就可以了解，如何給參數。
