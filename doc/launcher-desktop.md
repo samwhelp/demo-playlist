@@ -52,3 +52,8 @@ Keywords=tv;news
 
 * [#2 回覆: mint linux 可在卓面建立 SHORT CUT 嗎?](https://www.ubuntu-tw.org/modules/newbb/viewtopic.php?post_id=355496#forumpost355496)
 * [#11 回覆: 如何安裝 StarUML-v2.8.0-64-bit.deb ？](https://www.ubuntu-tw.org/modules/newbb/viewtopic.php?post_id=356636#forumpost356636)
+
+
+## 原始討論
+
+* [關於「m3u」和「mpv」和「smplayer」的操作使用](https://www.ubuntu-tw.org/modules/newbb/viewtopic.php?post_id=357582#forumpost357582)

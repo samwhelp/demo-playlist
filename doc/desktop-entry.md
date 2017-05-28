@@ -32,3 +32,8 @@ source_url: '/doc/mpv.md'
 ## 相關文章
 
 * [UnityLaunchersAndDesktopFiles](https://help.ubuntu.com/community/UnityLaunchersAndDesktopFiles)
+
+
+## 原始討論
+
+* [關於「m3u」和「mpv」和「smplayer」的操作使用](https://www.ubuntu-tw.org/modules/newbb/viewtopic.php?post_id=357582#forumpost357582)

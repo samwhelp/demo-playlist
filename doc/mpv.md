@@ -268,12 +268,14 @@ Playing: https://www.youtube.com/watch?v=AGW40bNJ-xk
 
 ```
 
+
 ## 注意事項
 
 * 有時候「mpv」無法播放「youtebe影片」，請先確認網址是否存在，
 再來則是可以執行「youtube-dl --update」更新「youtube-dl」。
 * 關於「mpv」支援的不只是「YouTube」，可以參考「[這一頁](https://rg3.github.io/youtube-dl/supportedsites.html)」瞭解支援的網站，
 例如，也有支援「Twitch」，所以也可以執行「mpv $twitch_url」。
+
 
 ## 原始討論
 

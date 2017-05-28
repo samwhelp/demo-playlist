@@ -50,3 +50,8 @@ Terminal=false
 
 * [#4 回覆: 開機自動啟動程式在ubuntu14.04](https://www.ubuntu-tw.org/modules/newbb/viewtopic.php?post_id=357524#forumpost357524)
 * [#2 回覆: mint linux 可在卓面建立 SHORT CUT 嗎?](https://www.ubuntu-tw.org/modules/newbb/viewtopic.php?post_id=355496#forumpost355496)
+
+
+## 原始討論
+
+* [關於「m3u」和「mpv」和「smplayer」的操作使用](https://www.ubuntu-tw.org/modules/newbb/viewtopic.php?post_id=357582#forumpost357582)
