@@ -25,5 +25,6 @@
 
 * [arm.m3u](arm.m3u)
 * [dykc.m3u](dykc.m3u)
+* [homework.m3u](homework.m3u)
 * [oscar.m3u](oscar.m3u)
 * [vm.m3u](vm.m3u)

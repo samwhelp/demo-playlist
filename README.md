@@ -20,5 +20,6 @@
 
 * [arm](https://samwhelp.github.io/demo-playlist/all/guts/arm.m3u)
 * [dykc](https://samwhelp.github.io/demo-playlist/all/guts/dykc.m3u)
+* [homework](https://samwhelp.github.io/demo-playlist/all/guts/homework.m3u)
 * [oscar](https://samwhelp.github.io/demo-playlist/all/guts/dykc.m3u)
 * [vm](https://samwhelp.github.io/demo-playlist/all/guts/vm.m3u)
