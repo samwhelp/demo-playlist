@@ -194,7 +194,7 @@ $ mpv --playlist=demo.txt
 
 ## 播放遠端的「m3u檔」
 
-再來做個有趣的測試
+再來做個有趣的測試，
 
 產生一個檔案叫做「remote.m3u」，內容一樣是剛剛「demo.m3u」的內容
 
@@ -269,6 +269,7 @@ Playing: https://www.youtube.com/watch?v=AGW40bNJ-xk
 
 ```
 
+[範例腳本](https://github.com/samwhelp/demo-playlist/tree/gh-pages/example/doc/mpv)
 
 ## 注意事項
 
