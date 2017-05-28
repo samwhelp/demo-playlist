@@ -11,4 +11,10 @@ source_url: '/index.md'
 
 ## Playlist
 
-* [debian-packaging-workshop](https://samwhelp.github.io/demo-playlist/all/debian-packaging-workshop/main.m3u)
+### debian-packaging-workshop
+
+* [main](https://samwhelp.github.io/demo-playlist/all/debian-packaging-workshop/main.m3u)
+
+### guts
+
+* [dykc](https://samwhelp.github.io/demo-playlist/all/guts/dykc.m3u)
