@@ -52,6 +52,11 @@ Keywords=tv;news
 只要「點選」該「啟動圖示」，就會播放剛剛的[影片](http://www.youtube.com/watch?v=Lqe3MuCyh9o)了。
 
 
+## 範例腳本
+
+* [launcher-desktop](https://github.com/samwhelp/demo-playlist/tree/gh-pages/example/doc/launcher-desktop)
+
+
 ## 相關討論
 
 * [#2 回覆: mint linux 可在卓面建立 SHORT CUT 嗎?](https://www.ubuntu-tw.org/modules/newbb/viewtopic.php?post_id=355496#forumpost355496)

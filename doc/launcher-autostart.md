@@ -50,6 +50,11 @@ Terminal=false
 這樣在進入桌面時，就會自動播放剛剛的設定的影片了。
 
 
+## 範例腳本
+
+* [launcher-autostart](https://github.com/samwhelp/demo-playlist/tree/gh-pages/example/doc/launcher-autostart)
+
+
 ## 相關討論
 
 * [#4 回覆: 開機自動啟動程式在ubuntu14.04](https://www.ubuntu-tw.org/modules/newbb/viewtopic.php?post_id=357524#forumpost357524)

@@ -64,6 +64,11 @@ Keywords=tv;news
 選「Add to Panel」該「啟動圖示」就會在「Panel」上出現。
 
 
+## 範例腳本
+
+* [launcher-application](https://github.com/samwhelp/demo-playlist/tree/gh-pages/example/doc/launcher-application)
+
+
 ## 相關討論
 
 * [#11 回覆: 如何安裝 StarUML-v2.8.0-64-bit.deb ？](https://www.ubuntu-tw.org/modules/newbb/viewtopic.php?post_id=356636#forumpost356636)
