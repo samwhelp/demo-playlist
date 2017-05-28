@@ -10,10 +10,15 @@
 
 ## Playlist
 
+
 ### [debian-packaging-workshop](all/debian-packaging-workshop)
 
 * [main.m3u](https://samwhelp.github.io/demo-playlist/all/debian-packaging-workshop/main.m3u)
 
+
 ### [guts](all/guts)
 
+* [arm](https://samwhelp.github.io/demo-playlist/all/guts/arm.m3u)
 * [dykc](https://samwhelp.github.io/demo-playlist/all/guts/dykc.m3u)
+* [oscar](https://samwhelp.github.io/demo-playlist/all/guts/dykc.m3u)
+* [vm](https://samwhelp.github.io/demo-playlist/all/guts/vm.m3u)
