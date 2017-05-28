@@ -6,7 +6,7 @@ help:
 	@echo 'Usage:'
 	@echo '	make'
 	@echo '	make help'
-	@echo '	make push'
+	@echo '	make add'
 	@echo '	make commit'
 	@echo '	make push'
 .PHONY: help
