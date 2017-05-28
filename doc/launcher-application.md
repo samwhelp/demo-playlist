@@ -7,8 +7,11 @@ date: 2017-05-28 14:42:58 +0800
 source_url: '/doc/launcher-application.md'
 ---
 
-### 範例 - 應用程式啟動選單 (App Launcher)
 
+# 範例 - 應用程式啟動選單 (App Launcher)
+
+
+## 操作步驟
 
 執行下面指令，產生「~/.local/share/applications/tv-news.desktop」這個檔案
 
@@ -61,9 +64,10 @@ Keywords=tv;news
 選「Add to Panel」該「啟動圖示」就會在「Panel」上出現。
 
 
-相關討論：
+## 相關討論
 
 * [#11 回覆: 如何安裝 StarUML-v2.8.0-64-bit.deb ？](https://www.ubuntu-tw.org/modules/newbb/viewtopic.php?post_id=356636#forumpost356636)
+* [#8 回覆: Chrome 45 以上及Firefox 52以上 版本不再支援網路ATM..](https://www.ubuntu-tw.org/modules/newbb/viewtopic.php?post_id=357066#forumpost357066)
 
 
 ## 原始討論

@@ -8,7 +8,10 @@ source_url: '/doc/launcher-autostart.md'
 ---
 
 
-### 範例 - 開機進入桌面自動啟動
+# 範例 - 開機進入桌面自動啟動
+
+
+## 操作步驟
 
 執行下面指令，產生「~/.config/autostart/tv-news.desktop」這個檔案
 
@@ -46,7 +49,8 @@ Terminal=false
 
 這樣在進入桌面時，就會自動播放剛剛的設定的影片了。
 
-相關討論:
+
+## 相關討論
 
 * [#4 回覆: 開機自動啟動程式在ubuntu14.04](https://www.ubuntu-tw.org/modules/newbb/viewtopic.php?post_id=357524#forumpost357524)
 * [#2 回覆: mint linux 可在卓面建立 SHORT CUT 嗎?](https://www.ubuntu-tw.org/modules/newbb/viewtopic.php?post_id=355496#forumpost355496)

@@ -7,7 +7,9 @@ date: 2017-05-28 14:42:58 +0800
 source_url: '/doc/mpv.md'
 ---
 
+
 # mpv
+
 
 ## 如何使用 「mpv」這個指令
 
@@ -24,8 +26,8 @@ SYNOPSIS
 </code></pre>
 ```
 
-
 大概就可以了解，如何給參數。
+
 
 ### 播放單一檔案
 
@@ -65,6 +67,7 @@ $ mpv $HOME/Video/demo.mp4
 $ mpv /home/user/Video/demo.mp4
 
 ```
+
 
 ### 播放遠端檔案
 
@@ -109,6 +112,7 @@ https://www.youtube.com/watch?v=AGW40bNJ-xk
 $ mpv https://www.youtube.com/watch?v=AGW40bNJ-xk
 
 ```
+
 
 ## 播放多個檔案或網址
 
