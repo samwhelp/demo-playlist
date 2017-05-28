@@ -4,7 +4,7 @@ title: Desktop Entry
 description: >
   Demo Playlist / Document / Desktop Entry
 date: 2017-05-28 14:42:58 +0800
-source_url: '/doc/mpv.md'
+source_url: '/doc/desktop-entry.md'
 ---
 
 ## Desktop Entry
