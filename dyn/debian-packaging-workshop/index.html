@@ -1,0 +1,30 @@
+---
+layout: default
+title: '[影片教學][TOSSUG] Debian 套件打包工作坊'
+description: >
+  Demo Playlist / [影片教學][TOSSUG] Debian 套件打包工作坊
+date: 2017-05-30 15:42:43 +0800
+source_url: '/dyn/debian-packaging-workshopindex.html'
+---
+
+
+<h2>原始討論</h2>
+
+<ul>
+	<li><a href="https://www.ubuntu-tw.org/modules/newbb/viewtopic.php?post_id=339076#forumpost339076">[影片教學][TOSSUG] Debian 套件打包工作坊</a></li>
+</ul>
+
+
+<h2>原始列表</h2>
+
+<ul>
+{% for item in site.data.playlist.debian-packaging-workshop.main %}
+	<li><a target="_blank" href="{{ item.uri }}">{{ item.title }}</a> - (<a target="_blank" href="{{ item.note }}">note</a>)</li>
+{% endfor %}
+</ul>
+
+<h2>播放清單</h2>
+
+<ul>
+	<li><a href="https://samwhelp.github.io/demo-playlist/dyn/debian-packaging-workshop/main.m3u">main</a></li>
+</ul>

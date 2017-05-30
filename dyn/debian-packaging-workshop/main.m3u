@@ -1,0 +1,6 @@
+---
+layout: playlist
+---
+{% for item in site.data.playlist.debian-packaging-workshop.main %}
+#EXTINF:{{ item.length }},{{ item.title }}
+{{ item.uri }}{% endfor %}
