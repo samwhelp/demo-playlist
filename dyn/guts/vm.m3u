@@ -1,0 +1,6 @@
+---
+layout: playlist
+---
+{% for item in site.data.playlist.guts.vm %}
+#EXTINF:{{ item.length }},{{ item.title }}
+{{ item.uri }}{% endfor %}
