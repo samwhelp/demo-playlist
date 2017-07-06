@@ -11,6 +11,11 @@ source_url: '/index.md'
 # 首頁
 
 
+## Document
+
+* [doc](https://samwhelp.github.io/demo-playlist/doc)
+
+
 ## Playlist
 
 
