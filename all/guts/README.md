@@ -21,10 +21,15 @@
 * [https://gitter.im/embedded2015/guts-general](https://gitter.im/embedded2015/guts-general)
 
 
+## Youtube
+
+*  GUTS  / [Videos](https://www.youtube.com/channel/UCIm-u7l65hp5jboSJrB7U5w/videos)
+
+
 ## Playlist
 
 * [arm.m3u](arm.m3u)
 * [dykc.m3u](dykc.m3u)
 * [homework.m3u](homework.m3u)
 * [oscar.m3u](oscar.m3u)
-* [vm.m3u](vm.m3u)
+* [cpu.m3u](cpu.m3u)

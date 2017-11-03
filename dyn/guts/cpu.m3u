@@ -1,6 +1,6 @@
 ---
 layout: playlist
 ---
-{% for item in site.data.playlist.guts.vm %}
+{% for item in site.data.playlist.guts.cpu %}
 #EXTINF:{{ item.length }},{{ item.title }}
 {{ item.uri }}{% endfor %}

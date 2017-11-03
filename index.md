@@ -30,4 +30,4 @@ source_url: '/index.md'
 * [dykc](https://samwhelp.github.io/demo-playlist/all/guts/dykc.m3u)
 * [homework](https://samwhelp.github.io/demo-playlist/all/guts/homework.m3u)
 * [oscar](https://samwhelp.github.io/demo-playlist/all/guts/oscar.m3u)
-* [vm](https://samwhelp.github.io/demo-playlist/all/guts/vm.m3u)
+* [cpu](https://samwhelp.github.io/demo-playlist/all/guts/cpu.m3u)
